@@ -1,0 +1,2 @@
+DROP SCHEMA IF EXISTS testphonedb;
+CREATE SCHEMA IF NOT EXISTS testphonedb;
